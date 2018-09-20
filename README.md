@@ -1,2 +1,2 @@
 # Analytics
-Projrcts that I have done throuout my academics.
+Projects that I have done throuout my academics.
